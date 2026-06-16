@@ -1,4 +1,4 @@
-AI-Project-1-Rule-Based-Chatbot
+#AI-Project-1-Rule-Based-Chatbot
 
 A simple Rule-Based AI Chatbot developed using Python as part of an Artificial Intelligence Internship Project.
 
@@ -16,6 +16,7 @@ Technologies Used
 * Conditional Statements
 
 How to Run
+----
 python chatbot.py
-
+----
 
